@@ -1,6 +1,3 @@
-token=NTkxNzIzMTk0MTUxNDY5MDg5.XRdKyA.gw9isMidtVe5NYVYQIuVhajO0Bs
+token=NTk2Mzk0ODE3MDU2MTQ1NDI4.XR50PA.uVJ7ws_HG0-OxRTOqQr8Exmj0l8
 owner=583002278626197524
-prefix=-
-game=none
-stayinchannel=true
-songinstatus=false
+prefix=Rr
