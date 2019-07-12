@@ -1,7 +1,7 @@
 token=NTI4NjQ1NDg0OTI4MzAzMTEw.XR-l5A.Yad25TgzThLcqnfTJke4ZU8xQRA
 owner=522764310313697282
 prefix=W
-game = وليدوهه.
+game = وليدوههه.
 status = DND
 songinstatus = false
 altprefix = "NONE"
